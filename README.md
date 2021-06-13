@@ -1,1 +1,1 @@
-![Readme](https://platform9.com/wp-content/uploads/2019/12/cloud-native-challenges.png)
+![Readme](https://stratox.cz/wp-content/uploads/2021/03/CodeNowIllustration.png)
