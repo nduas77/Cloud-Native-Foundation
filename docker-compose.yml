@@ -1,0 +1,11 @@
+version: '3'
+# Here's what to do, i.e, the container we want to create
+services: 
+    redis-server:
+        #image
+        image: redis
+    node-app:
+        build: . # look in the pwd for a dockerfile and then build the image
+        ports:
+            - "8081:8081" # local machine: inside the container
+            # - denotes an array in yml
