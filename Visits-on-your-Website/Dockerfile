@@ -1,5 +1,6 @@
 # set the base image
 FROM node:alpine
+# node base image of alpine version
 
 # set the working directory
 WORKDIR '/app'

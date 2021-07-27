@@ -44,7 +44,7 @@ app.get('/session', function(req, res, next) {
 	}
 })
 
-// The server object listens on port 3000.
-app.listen(3000,function(){
-	console.log("Express Started on Port 3000");
+// The server object listens on port 8080.
+app.listen(8080,function(){
+	console.log("Express Started on Port 8080");
 });
