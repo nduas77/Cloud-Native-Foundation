@@ -7,7 +7,8 @@ WORKDIR '/app'
 
 # install dependencies
 COPY package.json app.js ./
-RUN npm install
+RUN npm install express
+RUN npm install express-session
 
 # expose the port
 EXPOSE 8080

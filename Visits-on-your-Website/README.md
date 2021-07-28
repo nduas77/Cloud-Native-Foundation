@@ -4,13 +4,13 @@ This demonstartes the classic example  of Docker Application of ***Docker in Act
 
 ## Application:
 
-To count the Number of views in Express Session in Express Js.
+To count the Number of Views in Express Session in Express Js.
 
 ## Steps:
 
 Run the following command in order to access the applicatiion:
 
-* Installing requires modules:
+* Installing required modules:
     * `npm install express`
     * `npm install express-session`
 
